@@ -1,4 +1,5 @@
 # photo-app-quickstart
+```
 import cv2
 import numpy as np
 
@@ -31,3 +32,4 @@ def beautify_face(image_path, output_path):
 
 # 示例用法
 beautify_face('input.jpg', 'output.jpg')
+```
